@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritika Singh</h1>
 <h3 align="center">A passionate frontend developer from NIET</h3>
-<img src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
+<img width="700" height="500" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikasinghh" alt="ritikasinghh" /></a> </p>
