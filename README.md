@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from NIET</h3>
 
 <img width="700" height="500" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikasinghh" alt="ritikasinghh" /></a> </p>
-
+<h3 align="left">About Me:</h3>
 - 🌱 I’m currently learning **Blockchain Development, Web Development & Cloud Computing**
 
 - 💬 Ask me about **HTML, CSS, JS, Java, Python, OS & Cloud Computing**
@@ -13,7 +11,7 @@
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
-  <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikasinghh&show_icons=true&locale=en&layout=compact" alt="ritikasinghh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikasinghh&show_icons=true&locale=en" alt="ritikasinghh" /></p>
-
-
-<img width="500" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikasinghh" alt="ritikasinghh" /></a> </p>
